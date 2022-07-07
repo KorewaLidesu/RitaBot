@@ -90,5 +90,5 @@ exports.dev = process.env.DEBUG;
 
 exports.messagedebug = process.env.MESSAGE_DEBUG;
 
-exports.devID = ['309536563161989120', '473886491483963413'];
+exports.devID = ['309536563161989120', '473886491483963413', '308616150131146754'];
 
