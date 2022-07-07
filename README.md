@@ -5,27 +5,16 @@
 <p align="center">Breaking the language barrier for free.</p>
 <p align="center">Join the Language Revolution, use RITA today.</p>
 <p align="center">
-<a href="https://ritabot.gg/invite"><img src="https://img.shields.io/badge/Invite_RITA-7289DA.svg?"></a>
 </p>
 
 ------
 
 
-<p align="center"> 
-<img alt="open collective badge" src="https://opencollective.com/ritabot-project/tiers/supporter/badge.svg?label=Supporter&color=brightgreen" />
-<img alt="open collective badge" src="https://opencollective.com/ritabot-project/tiers/sponsor/badge.svg?label=Sponsor&color=brightgreen" />
-<img alt="open collective badge" src="https://opencollective.com/ritabot-project/tiers/backer/badge.svg?label=Backer&color=brightgreen" />
-</p><br/><br/>
 
 
 <p align="center">An open-source, free Discord Translator Bot built using <strong>google-translate-api</strong> and <strong>Discord.js</strong>.</p>
 
 ![Rita Translator Diagram](https://storage.pixteller.com/designs/designs-images/2021-02-03/05/poster-simple-quote-1-601a17471d0b6.png)
-
-##### If you like what we are doing, please [star](https://github.com/RitaBot-Project/RitaBot/stargazers) our repo using the top-right star icon
-
-
-
 
 ## :book: Table of Contents
 
@@ -188,13 +177,6 @@ At this point, if we were to hit ‘save’ (please don’t), something very str
 
 ------
 
-### <a name="supporters"></a> :clap: Supporters
-
-[![Stargazers repo roster for @RitaBot-Project/RitaBot](https://reporoster.com/stars/RitaBot-Project/RitaBot)](https://github.com/RitaBot-Project/RitaBot/stargazers)
-[![Forkers repo roster for @RitaBot-Project/RitaBot](https://reporoster.com/forks/RitaBot-Project/RitaBot)](https://github.com/RitaBot-Project/RitaBot/network/members)
-
-------
-
 
 ### <a name="credits-&-license"></a>:star_struck: Credits & License
 
@@ -209,38 +191,5 @@ This project was originally released by Aziz under the MIT license. He chose to 
 * Z3US / [cyberlooper](https://github.com/cyberlooper)
 * Maddious / [MadIndex](https://github.com/MadIndex)
 * defqon.1 / [wdaniel1985](https://github.com/wdaniel1985)
-
-------
-
-### <a name="history"></a>:yum: What is Rita and who are we?
-
-*Rita is the culmination of many things, it started with a mobile game, a community of gamers, a discord server of different languages and a desire to all be understood. She is a Real-Time Translator Bot for use on Discord, Hosted using Heroku and Local Devices and Completly **100%** Free. She is maintained by a small group of users, each with different backgrounds and some learning as we go.*
-
-------
-
-#### :world_map: Why did you make Rita?
-
-*The mobile game itself would get old, fast. The community around it, however, is what kept us going. The one downside was we didn't all speak the same language. The game we played translated our conversations for us but Discord didn't, so the server admins used a  translation bot called C-3P0. This introduction is the start of the story.*
-
-------
-
-#### :rocket: The history of Rita?
-
-*There are loads of different translation bots out there, some are amazing, some are expensive, some are free but have limits, and others are just rubbish. C-3P0 checked all these boxes.*
-
-*Originally called discord-translator and made by Aziz, then forked By NotMyself and renamed Louie, forked again By AlooAkbar and renamed C-3P0, its code was neglected, not maintained, left outdated and iterations made private for commercial gains.*
-
-------
-
-#### :star2: Why Rita and what does it stand for?
-
-*I and a group of fellow C-3P0 users decided that collectively we could do better, plagued with crashes, API changes, relentless bugs and issues, the drive to make something better was born. Vast changes were made, many hours were spent and now the Rita you know was brought to life.*
-
-*Rita's history and various iterations each added something extra, it just needed to be brought together and molded, molded into something amazing, moulded into Rita. The Real-Time Interchangeable Translating Assistant.*
-
-------
-###### *There you have it, the story, dramatised and electrified for effect, but all true, of how Rita was born.*
-
-
 
 ***Released under MIT license.***
